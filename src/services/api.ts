@@ -1,5 +1,5 @@
 
-const API_URL = 'http://localhost:8080'
+const API_URL = 'https://buginsight-benildo-api.onrender.com'
 
 export interface Bug {
   id: number
